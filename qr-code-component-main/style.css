@@ -28,10 +28,11 @@ img {
   margin-bottom: 2rem;
 }
 .card {
-  max-width: min(100vw, 30rem);
+  max-width: min(100vw, 34rem);
+  margin: 1.2rem;
   background: var(--white);
   padding: 1.4rem;
-  padding-bottom: 3.8rem;
+  padding-bottom: 2.8rem;
   border-radius: 10px;
   text-align: center;
   display: flex;
