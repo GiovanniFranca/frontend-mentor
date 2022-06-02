@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Main Section](./screenshot/main.png)
-![Thank you Section](./screenshot/ty.png)
+![Main Section](screenshots\main.png)
+![Thank you Section](screenshots\ty.png)
 
 ### Links
 
