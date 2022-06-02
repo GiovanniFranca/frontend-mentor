@@ -36,6 +36,7 @@ img {
   text-align: center;
   display: flex;
   flex-direction: column;
+  box-shadow: 3px 10px 16px hsla(229, 15%, 55%, 0.158);
 }
 .card-title {
   color: var(--dark-blue);
